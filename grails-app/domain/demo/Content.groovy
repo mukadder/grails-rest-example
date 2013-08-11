@@ -1,5 +1,5 @@
 package demo
-
+//hot spot
 class Content {
 
 	String title
